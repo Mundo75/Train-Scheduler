@@ -19,6 +19,8 @@ td {
     font-size: 24px;
 }
 
-tr {
-    text-align: center;
+th {
+  text-align: center;
+  font-weight: bold;
 }
+
